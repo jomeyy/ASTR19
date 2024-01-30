@@ -1,0 +1,1 @@
+print("My name is Jordan Bliesner. My favorite food is sushi and I have been making it for about 6 years now. My favorite movie that I have wateched lately is the first John Wick")
